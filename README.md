@@ -26,14 +26,7 @@ The Machine Learning course and Deep Learning Specialization from Andrew Ng teac
 #### Sentiment in text
 The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. This is the process of converting the text into numeric values, with a number representing a word or a character. This week you'll learn about the Tokenizer and pad_sequences APIs in TensorFlow and how they can be used to prepare and encode text and sentences to get them ready for training neural networks!
 
-#### :blue_book: Notebooks
-[Lesson 1](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%201/Week_1_Lesson_1.ipynb "Lesson 1")
 
-[Lesson 2](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%201/Week_1_Lesson_2.ipynb "Lesson 2")
-
-[Lesson 3 - Sarcasm](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%201/Week_1_Lesson_3_%28Sarcasm%29.ipynb "Lesson 3 - Sarcasm")
-
-[Exercise - Solved](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%201/Exercise/Week_1_Exercise_Solved.ipynb "Exercise - Solved")
 
 ### :pushpin: Week 2
 
@@ -43,15 +36,6 @@ The first step in understanding sentiment in text, and in particular when traini
 #### Word Embeddings
 These tokens are mapped as vectors in a high dimension space. With Embeddings and labelled examples, these vectors can then be tuned so that words with similar meaning will have a similar direction in the vector space. This will begin the process of training a neural network to udnerstand sentiment in text -- and you'll begin by looking at movie reviews, training a neural network on texts that are labelled 'positive' or 'negative' and determining which words in a sentence drive those meanings.
 
-#### :blue_book: Notebooks
-
-[Lesson 1](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%202/Week_2_Lesson_1.ipynb "Lesson 1")
-
-[Lesson 2](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%202/Week_2_Lesson_2.ipynb "Lesson 2")
-
-[Sarcasm Classifier](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/tree/master/Week%202/Sarcasm%20Classifier "Sarcasm Classifier")
-
-[Exercise - Solved](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%202/Exercise/Week_2_Exercise_Solved.ipynb "Exercise - Solved")
 
 ### :pushpin: Week 3
 
@@ -61,14 +45,6 @@ These tokens are mapped as vectors in a high dimension space. With Embeddings an
 #### Sequence models
 Understanding a variety of model formats that are used in training models to understand context in sequence!
 
-#### :blue_book: Notebooks
-
-[Lesson 1](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%203/Week_3_Lesson_1.ipynb "Lesson 1")
-
-[Lesson 2 - Sarcasm](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%203/Week_3_Sarcasm.ipynb "Lesson 2 - Sarcasm")
-
-[Exercise - Solved](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%203/Exercise/Week_3_Exercise_Solved.ipynb "Exercise - Solved")
-
 ### :pushpin: Week 4
 
 ------------
@@ -77,13 +53,6 @@ Understanding a variety of model formats that are used in training models to und
 #### Sequence models and literature
 Given a body of words, you could conceivably predict the word most likely to follow a given word or phrase, and once you've done that, to do it again, and again. With that in mind, this week you'll build a poetry generator. It's trained with the lyrics from traditional Irish songs, and can be used to produce beautiful-sounding verse of it's own!
 
-#### :blue_book: Notebooks
-
-[Lesson 1](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%204/Week_4_Lesson_1.ipynb "Lesson 1")
-
-[Lesson 2](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%204/Week_4_Lesson_2.ipynb "Lesson 2")
-
-[Exercise - Solved](https://github.com/officialpm/Natural-Language-Processing-in-TensorFlow/blob/master/Week%204/Exercise/Week_4_Exercise_Shakespeare_Solved.ipynb "Exercise - Solved")
 
 ## :link: Course Link
 #### [Natural Language Processing in TensorFlow - Coursera](https://www.coursera.org/learn/natural-language-processing-tensorflow/#syllabus "Natural Language Processing in TensorFlow - Coursera")
